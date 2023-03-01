@@ -16,7 +16,10 @@ customFields:
     value: kokomomo
   - name: 'has manager'
     type: BOOLEAN
-    value: 5
+    value: true
   - name: 'developer count'
     type: NUMBER
     value: 2
+  - name: 'koko
+    type: USER
+    value: ari:cloud:identity::user/60a3ed282009f10068a14394
