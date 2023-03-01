@@ -13,10 +13,10 @@ relationships: {}
 customFields: 
   - name: 'team nickname'
     type: TEXT
-    value: true
+    value: kokomomo
   - name: 'has manager'
     type: BOOLEAN
-    value: true
+    value: 5
   - name: 'developer count'
     type: NUMBER
     value: 2
