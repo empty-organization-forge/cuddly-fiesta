@@ -20,7 +20,7 @@ customFields:
   - name: 'developer count'
     type: NUMBER
     value: 2
-  - name: 'dodo'
+  - name: 'dododo'
     type: USER
     value: 'ari:cloud:identity::user/60a3ed282009f10068a14394'
     
