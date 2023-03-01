@@ -13,7 +13,7 @@ relationships: {}
 customFields: 
   - name: 'team nickname'
     type: TEXT
-    value: someValue
+    value: true
   - name: 'has manager'
     type: BOOLEAN
     value: true
