@@ -22,5 +22,5 @@ customFields:
     value: 2
   - name: 'koko'
     type: USER
-    value: ari:cloud:identity::user/60a3ed282009f10068a14394
+    value: 'ari:cloud:identity::user/60a3ed282009f10068a14394'
     
