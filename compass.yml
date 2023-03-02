@@ -22,4 +22,4 @@ customFields:
     value: 'dodo1'
   - name: 'has momo'
     type: boolean
-    value: null
+    value: false
