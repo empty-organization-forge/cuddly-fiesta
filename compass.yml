@@ -13,5 +13,5 @@ relationships: {}
 customFields: 
   - name: 'developer count'
     type: NUMBER
-    value: 9
+    value: 1
     
