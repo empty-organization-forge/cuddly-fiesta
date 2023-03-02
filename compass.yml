@@ -13,7 +13,7 @@ relationships: {}
 customFields: 
   - name: 'developer count'
     type: NUMBER
-    value: 8
+    value: 5
   - name: 'User'
     type: USER
     value: 'ari:cloud:identity::user/60a3ed282009f10068a14394'
