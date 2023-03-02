@@ -19,4 +19,7 @@ customFields:
     value: 'ari:cloud:identity::user/60a3ed282009f10068a14394'
   - name: 'koko'
     type: text
-    value: 456
+    value: 'dodo'
+  - name: 'koko'
+    type: text
+    value: 'dodo'
