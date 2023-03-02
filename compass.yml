@@ -20,6 +20,3 @@ customFields:
   - name: 'koko'
     type: text
     value: 'dodo1'
-  - name: 'koko'
-    type: text
-    value: 'dodo2'
