@@ -11,15 +11,5 @@ links:
     url: 'https://github.com/empty-organization-forge/cuddly-fiesta'
 relationships: {}
 customFields: 
-  - name: 'developer count1'
-    type: NUMBER
-    value: 7
-  - name: 'User'
-    type: USER
-    value: 'ari:cloud:identity::user/60a3ed282009f10068a14394'
-  - name: 'koko'
-    type: text
-    value: 'dodo1'
   - name: 'has momo'
-    type: boolean
     value: true
