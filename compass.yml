@@ -12,4 +12,4 @@ links:
 relationships: {}
 customFields: 
   - name: 'has momo'
-    value: false
+    value: true
