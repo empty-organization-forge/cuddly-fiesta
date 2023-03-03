@@ -12,4 +12,5 @@ links:
 relationships: {}
 customFields: 
   - name: 'has momo'
+    type: boolean
     value: true
