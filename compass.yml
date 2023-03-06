@@ -11,5 +11,6 @@ links:
     url: 'https://github.com/empty-organization-forge/cuddly-fiesta'
 relationships: {}
 customFields: 
-  - type: boolean
+  - name: 'has momo'
+    type: boolean
     value: true
