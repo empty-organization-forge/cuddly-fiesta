@@ -2,7 +2,7 @@ name: cuddly-fiesta
 id: 'ari:cloud:compass:1bca4771-a876-4775-aa71-b8c72266c5bc:component/9de23fde-b6f9-4470-afb4-9fa87f24f1ca/38c3ac68-d414-4def-8223-20bfc5f9d725'
 description: null
 configVersion: 1
-typeId: OTHER
+typeId: CAPABILITY
 ownerId: null
 fields:
   tier: 4
