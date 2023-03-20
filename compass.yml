@@ -12,7 +12,7 @@ links:
     url: 'https://github.com/empty-organization-forge/cuddly-fiesta'
 relationships: {}
 customFields:
-  - name: New text
+  - name: new text
     type: TEXT
     value: text123
 
