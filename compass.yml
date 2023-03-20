@@ -14,10 +14,10 @@ relationships: {}
 customFields:
   - name: has momo
     type: BOOLEAN
-    value: true
+    value: false
   - name: new text
     type: TEXT
-    value: text
+    value: text123
 
 # Learn more about formatting compass.yml:
 # https://go.atlassian.com/compass-yml-format
