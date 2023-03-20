@@ -1,0 +1,24 @@
+name: cuddly-fiesta
+id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/c027f0ca-f72b-4830-84db-ea2fa2dbf9a3'
+description: koko11131
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/empty-organization-forge/cuddly-fiesta'
+relationships: {}
+labels: null,
+customFields:
+  - name: has momo
+    type: BOOLEAN
+    value: true
+  - name: new text
+    type: TEXT
+    value: text
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
