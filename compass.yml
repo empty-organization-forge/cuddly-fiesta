@@ -1,0 +1,32 @@
+name: cuddly-fiesta
+id: ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/be2ddf3a-703d-4f1c-b18c-1863fc66221a
+description: null
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+  lifecycle: Active
+links:
+  - type: REPOSITORY
+    name: null
+    url: https://github.com/empty-organization-forge/cuddly-fiesta
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields:
+  - name: User
+    type: user
+    value: ari:cloud:identity::user/60a3ed282009f10068a14394
+  - name: has momo
+    type: boolean
+    value: true
+  - name: new text
+    type: text
+    value: roty
+  - name: some number
+    type: number
+    value: 5
+  - name: text field
+    type: text
+    value: null
