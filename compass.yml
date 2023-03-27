@@ -1,0 +1,34 @@
+name: cuddly-fiesta
+id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/b145a3aa-2990-4066-9aa2-db3501c93c75'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/empty-organization-forge/cuddly-fiesta'
+relationships: {}
+labels:
+  - 'source:github'
+customFields:
+  - name: User
+    type: user
+    value: null
+  - name: has momo
+    type: boolean
+    value: false
+  - name: new text
+    type: text
+    value: null
+  - name: some number
+    type: number
+    value: null
+  - name: text field
+    type: text
+    value: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
