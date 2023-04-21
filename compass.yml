@@ -1,7 +1,7 @@
 name: cuddly-fiesta
 description: koko12345
 configVersion: 1
-typeId: SERVICE
+typeId: APPLICATION
 ownerId: null
 fields:
   tier: 4
