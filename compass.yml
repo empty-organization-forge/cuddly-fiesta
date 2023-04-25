@@ -9,9 +9,6 @@ links:
   - name: null
     type: REPOSITORY
     url: 'https://github.com/empty-organization-forge/cuddly-fiesta'
-  - name: 'on-call link'
-    type: ON_CALL
-    url: 'https://google.com'
 relationships: {}
 labels:
   - 'source:github'
