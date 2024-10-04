@@ -1,0 +1,18 @@
+name: cuddly-fiesta
+id: ari:cloud:compass:95055b09-6e58-4429-86f6-6d8b4a485eb8:component/95d0a968-a66c-403b-a12c-0b6fb458ff24/69a67ddb-a2c9-45a8-8ade-178dd6568d9a
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/empty-organization-forge/cuddly-fiesta
+relationships:
+  DEPENDS_ON: []
+labels:
+  - language:dockerfile
+  - source:github
+customFields: null
