@@ -10,9 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "TEST"
-  deployment:
+  deployment-production:
+    name: 'Production deployment'
     runs-on: ubuntu-latest
     environment: production
     concurrency: production
+    steps:
+      - run: echo "DEPLOYMENT"
+  deployment-staging:
+    name: 'Production staging'
+    runs-on: ubuntu-latest
+    environment: staging
+    concurrency: staging
     steps:
       - run: echo "DEPLOYMENT"
