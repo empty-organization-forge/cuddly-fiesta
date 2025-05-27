@@ -1,0 +1,47 @@
+name: cuddly-resync
+id: 'ari:cloud:compass:a10ea91e-27d4-4f44-b66d-bd62492de975:component/b339cd9b-4f38-471a-bded-630454b12269/5069cbb2-4a2a-46fc-b7d1-56862d0ead94'
+description: null
+configVersion: 1
+typeId: SERVICE
+ownerId: null
+fields:
+  tier: 4
+  isMonorepoProject: false
+links:
+  - name: null
+    type: REPOSITORY
+    url: 'https://github.com/empty-organization-forge/cuddly-fiesta'
+relationships: {}
+labels:
+  - synced-with-jsm
+customFields:
+  - name: Archetype
+    type: text
+    value: null
+  - name: Archetype-Services
+    type: text
+    value: null
+  - name: User
+    type: user
+    value: null
+  - name: has momo
+    type: boolean
+    value: false
+  - name: new text
+    type: text
+    value: null
+  - name: owner
+    type: text
+    value: null
+  - name: platform
+    type: text
+    value: null
+  - name: some number
+    type: number
+    value: null
+  - name: text field
+    type: text
+    value: null
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
